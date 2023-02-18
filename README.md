@@ -1,6 +1,4 @@
-## 곰개구리
-
-개굴개굴 곰개굴
+![image](https://user-images.githubusercontent.com/66404645/219877552-1ef34532-ab8d-4430-ae1e-89ae4f12f267.png)
 
 <!--
 **bear-frog/bear-frog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
