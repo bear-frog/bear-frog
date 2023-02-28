@@ -1,1 +1,1 @@
-![12160130592018927746807](https://user-images.githubusercontent.com/66404645/221411881-b39a5a6f-674f-43ea-bb3f-f91fde51db1d.jpg)
+![기쁨이](https://user-images.githubusercontent.com/66404645/221808316-058e4554-8d36-4a86-8a84-81d642e42c48.PNG)
