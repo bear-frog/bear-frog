@@ -19,6 +19,6 @@
 
 <img src="https://img.shields.io/badge/Amazon%20S3-527FFF?style=for-the-badge&logo=Amazon%20S3&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20Codedeploy-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
 
-### SCM
+### VCS
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
