@@ -1,1 +1,1 @@
-![image](https://github.com/bear-frog/bear-frog/assets/66404645/17b04da5-7889-4aea-934c-1e9251f3e8ee)
+![image](https://github.com/bear-frog/bear-frog/assets/66404645/88882dce-0cf5-46ab-a313-4a646d86c196)
